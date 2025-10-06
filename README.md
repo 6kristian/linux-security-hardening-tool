@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/6kristian/linux-security-hardening-tool)](https://github.com/6kristian/linux-security-hardening-tool/issues)
+[![Docker Pulls](https://img.shields.io/docker/pulls/kristian6/linux-harden-tool)](https://hub.docker.com/r/kristian6/linux-harden-tool)
 [![GitHub stars](https://img.shields.io/github/stars/6kristian/linux-security-hardening-tool)](https://github.com/6kristian/linux-security-hardening-tool/stargazers)
 
 A Python-based tool to audit and harden Linux system security configurations.  
