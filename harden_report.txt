@@ -1,19 +1,18 @@
 ===== LINUX SECURITY HARDENING REPORT =====
-Generated on: 2025-10-06 20:36:56.389583
+Generated on: -----------------------------
 
 [System Updates]
-Packages with updates: 26
+-----------------------------
 
 [Firewall Status]
-Firewall is active ✅
+-----------------------------
 
 [Password Policy]
-#PASS_MIN_LEN
+-----------------------------
 
 [World Writable Files]
-/tmp/mintUpdate/8t2eziw5
-/home/kristian/.linuxmint/mintupdate/updates.json
+-----------------------------
 
 [Root SSH Login]
-Could not verify SSH root login setting.
+-----------------------------
 
